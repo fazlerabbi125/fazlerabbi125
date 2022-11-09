@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi125&theme=radical)
+
 <!--
 **fazlerabbi125/fazlerabbi125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
