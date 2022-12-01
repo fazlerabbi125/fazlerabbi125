@@ -25,7 +25,7 @@
   3) HTML & CSS: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/HTML-%26-CSS-projects">View HTML & CSS projects</a>
   4) PHP/Laravel: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/PHP-and-Laravel-projects">View PHP/Laravel projects</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi125&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi125&show_icons=true&locale=en)
 
 <!--
 **fazlerabbi125/fazlerabbi125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
