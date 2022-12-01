@@ -20,10 +20,10 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazlerabbi125&show_icons=true&locale=en&layout=compact" alt="fazlerabbi125" /></p> -->
 - **Web Development Projects:**
-  1) JavaScript/TypeScript: https://github.com/fazlerabbi125/Web-Development-projects/tree/JavaScript-projects
-  2) Python/Django: https://github.com/fazlerabbi125/Web-Development-projects/tree/Django-projects
-  3) HTML & CSS: https://github.com/fazlerabbi125/Web-Development-projects/tree/HTML-%26-CSS-projects
-  4) PHP/Laravel: https://github.com/fazlerabbi125/Web-Development-projects/tree/PHP-and-Laravel-projects
+  1) JavaScript/TypeScript: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/JavaScript-projects">View JavaScript/TypeScript projects</a>
+  2) Python/Django: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/Django-projects">View Python/Django projects</a>
+  3) HTML & CSS: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/HTML-%26-CSS-projects">View HTML & CSS projects</a>
+  4) PHP/Laravel: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/PHP-and-Laravel-projects">View PHP/Laravel projects</a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi125&theme=radical)
 
