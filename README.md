@@ -8,10 +8,10 @@
 - 📄 Know about my experiences: **<a href="https://www.canva.com/design/DAErwk6XoLM/lAYK-jbNiyOc941yHHvDvA/view?utm_content=DAErwk6XoLM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">View Resume</a>**
 
 - **Web Development Projects:**
-  1) JavaScript/TypeScript: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/JavaScript-projects">View JavaScript/TypeScript projects</a>
-  2) Python/Django: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/Django-projects">View Python/Django projects</a>
-  3) HTML & CSS: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/HTML-%26-CSS-projects">View HTML & CSS projects</a>
-  4) PHP/Laravel: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/PHP-and-Laravel-projects">View PHP/Laravel projects</a>
+  1) JavaScript/TypeScript: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/JavaScript-TypeScript-projects">Click here</a>
+  2) Python/Django: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/Django-projects">Click here</a>
+  3) HTML & CSS: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/HTML-%26-CSS-projects">Click here</a>
+  4) PHP/Laravel: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/PHP-and-Laravel-projects">Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
