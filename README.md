@@ -19,6 +19,7 @@
 <a href="https://www.codechef.com/users/faiyaz125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="faiyaz125" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fazle_rabbi125f1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fazle_rabbi125f1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fazlerabbi125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fazlerabbi125" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/198790" target="blank"><img align="center" src="https://camo.githubusercontent.com/b21d347661a71f44bb85cb2b136935a8ebe9ccb82ad898022d75e9a6a833ca86/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f6a756467652f66617669636f6e2e69636f3f31363335303937303336" alt="frfaiyaz @ beecrowd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
