@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fazle Rabbi Faiyaz</h1>
-<h3 align="center">A passionate and inquisitive full-stack developer from Bangladesh</h3>
+<h1 align="left">Hi, I'm Fazle Rabbi Faiyaz 👋</h1>
+<h3 align="left">A passionate and inquisitive full-stack developer from Bangladesh</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlerabbi125" alt="fazlerabbi125" /></a> </p> -->
 
