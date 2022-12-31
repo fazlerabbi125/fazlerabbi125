@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlerabbi125" alt="fazlerabbi125" /></a> </p> -->
 
-- 📫 How to reach me: **fazle.rabbi125faiyaz@yahoo.com**
+- 📫 How to reach me: **fazle.rabbi125faiyaz@gmail.com**
 
 - 📄 Know about my experiences: **<a href="https://www.canva.com/design/DAErwk6XoLM/lAYK-jbNiyOc941yHHvDvA/view?utm_content=DAErwk6XoLM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">View Resume</a>**
 
