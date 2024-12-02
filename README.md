@@ -2,7 +2,7 @@
 <h3 align="left">A passionate and inquisitive full-stack developer from Bangladesh</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlerabbi125" alt="fazlerabbi125" /></a> </p> -->
-
+<!-- 
 - 📫 How to reach me: **fazle.rabbi125faiyaz@gmail.com**
 
 - 📄 Know about my experiences: **<a href="https://www.canva.com/design/DAErwk6XoLM/lAYK-jbNiyOc941yHHvDvA/view?utm_content=DAErwk6XoLM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">View Resume</a>**
@@ -12,7 +12,7 @@
   2) Python/Django: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/Django-projects">Click here</a>
   3) HTML & CSS: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/HTML-%26-CSS-projects">Click here</a>
   4) PHP/Laravel: <a href="https://github.com/fazlerabbi125/Web-Development-projects/tree/PHP-and-Laravel-projects">Click here</a>
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fazle-rabbi-faiyaz-5a0811222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazle-rabbi-faiyaz-5a0811222" height="30" width="40" /></a>
