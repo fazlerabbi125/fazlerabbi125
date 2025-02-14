@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Fazle Rabbi Faiyaz 👋</h1>
-<h3 align="left">An inquisitive and driven software engineer from Bangladesh with industry experience and a passion for developing high-quality software solutions that meet business needs.</h3>
+<h3 align="left">An inquisitive and driven software engineer from Bangladesh with industry experience and a passion for developing quality software solutions that meet business needs.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlerabbi125" alt="fazlerabbi125" /></a> </p> -->
 <!-- 
